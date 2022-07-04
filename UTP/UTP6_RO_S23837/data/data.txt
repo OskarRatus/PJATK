@@ -1,0 +1,3 @@
+pl	Japonia	2015-09-01	2015-10-01	jezioro	10000,20	PLN
+en_GB	Norway	2015-07-12	2015-07-15	sea	500.15	USD
+en_GB	United States	2015-07-10	2015-08-30	mountains	5,400.20	USD
