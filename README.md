@@ -8,3 +8,5 @@ GUI - Programowanie obiektowe i GUI
 TPO - Technologie programowania rozproszonego
 
 APBD - Aplikacje baz danych
+
+UTP - Uniwersalne Techniki Programowania
