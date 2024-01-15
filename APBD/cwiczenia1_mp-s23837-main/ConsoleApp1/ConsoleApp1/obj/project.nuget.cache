@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/OrvtXUcLpx7Cu53KfF4OYYxthnPaK28SgM1E/eSBQYwtlUOEMxucZpXlvCIMAZWSoW2tQElSmkwmMSH7Q96xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
