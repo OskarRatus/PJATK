@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         id="WebApp_ID"
+         version="4.0">
+    <display-name>CarSearchApp</display-name>
+    <servlet>
+        <servlet-name>carLoaderServlet</servlet-name>
+        <servlet-class>com.example.demo4.CarLoaderServlet</servlet-class>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+    <servlet>
+        <servlet-name>carSearchServlet</servlet-name>
+        <servlet-class>com.example.demo4.CarSearchServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>tableServlet</servlet-name>
+        <servlet-class>com.example.demo4.TableServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>carSearchServlet</servlet-name>
+        <url-pattern>/search</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>tableServlet</servlet-name>
+        <url-pattern>/table</url-pattern>
+    </servlet-mapping>
+</web-app>

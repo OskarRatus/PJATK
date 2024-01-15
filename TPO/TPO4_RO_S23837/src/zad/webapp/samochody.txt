@@ -1,0 +1,4 @@
+osobowy,Toyota,2019,6.5
+ciężarowy,Volvo,2015,12.2
+F1,Ferrari,2021,4.8
+dostawczy,Ford,2020,8.2
